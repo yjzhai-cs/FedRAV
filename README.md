@@ -1,5 +1,7 @@
 # FedRAV: Hierarchically Federated Region-Learning for Traffic Object Classification of Autonomous Vehicles
 
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
 ### Paper Overview
 
 The emerging federated learning enables distributed autonomous vehicles to train equipped deep learning models collaboratively without exposing their raw data, providing great
